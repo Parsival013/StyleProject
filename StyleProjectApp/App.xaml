@@ -1,0 +1,92 @@
+﻿<Application x:Class="StyleProjectApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StyleProjectApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="Head">pack://application:,,,/Assets/Fonts/Larisa script.ttf#Larisa script</FontFamily>
+        <FontFamily x:Key="Text">pack://application:,,,/Assets/Fonts/Larisa script.ttf#Larisa script</FontFamily>
+
+        <Style TargetType="Border">
+            <Setter Property="CornerRadius" Value="5"/>
+            
+        </Style>
+        
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.FontSize" Value="24"/>
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#810955"/>
+            <Setter Property="BorderBrush" Value="#EE81B3"/>
+            <Setter Property="Control.FontSize" Value="18"/>
+        </Style>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#810955"/>
+            <Setter Property="Control.Background" Value="#FFF9D7"/>
+            <Setter Property="BorderBrush" Value="#EE81B3"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type PasswordBox}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#810955"/>
+            <Setter Property="Control.Background" Value="#FFF9D7"/>
+            <Setter Property="BorderBrush" Value="#EE81B3"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+            
+        </Style>
+
+        <Style TargetType="{x:Type CheckBox}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#810955"/>
+            <Setter Property="BorderBrush" Value="#EE81B3"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+
+        <Style TargetType="{x:Type RadioButton}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#EE81B3"/>
+            <Setter Property="BorderBrush" Value="#810955"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type ComboBox}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Background" Value="#EE81B3"/>
+
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type ComboBoxItem}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#810955"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type ListBox}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#810955"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type Slider}">
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+            <Setter Property="Control.Background" Value="#810955"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type Calendar}">
+            <Setter Property="FontFamily" Value="Larisa script"/>
+            
+            <Setter Property="Control.Background" Value="#FFF9D7"/>
+            <Setter Property="Control.FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="{x:Type ProgressBar}">
+
+            <Setter Property="Control.Foreground" Value="#FFF9D7"/>
+        </Style>
+    </Application.Resources>
+</Application>

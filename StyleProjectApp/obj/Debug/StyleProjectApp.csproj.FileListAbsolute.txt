@@ -1,0 +1,16 @@
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.csproj.AssemblyReference.cache
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\App.g.cs
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp_MarkupCompile.cache
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\bin\Debug\StyleProjectApp.exe.config
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\bin\Debug\StyleProjectApp.exe
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\bin\Debug\StyleProjectApp.pdb
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp_MarkupCompile.lref
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\MainWindow.baml
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.g.resources
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.Properties.Resources.resources
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.csproj.GenerateResource.cache
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.exe
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\StyleProjectApp.pdb
+C:\Users\79961\Pictures\Saved Pictures\разработка ис\StyleProjectApp\StyleProjectApp\obj\Debug\App.baml
